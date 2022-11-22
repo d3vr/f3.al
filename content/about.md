@@ -8,7 +8,7 @@ readingTime: false
 Oh hey there, thanks for dropping by!
 
 My name is **`Fayçal Mitidji`** a.k.a `d3vr`, I am a programmer and web developer
-with 10+ of years experience and I'm currently based in Algeria.
+with 10+ years of experience and I'm currently based in Algeria.
 
 In this website, I'll be writing about and sharing whatever I find interesting
 in the moment (mostly technology-related).
