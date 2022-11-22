@@ -1,0 +1,32 @@
+baseURL = 'https://f3.al/'
+languageCode = 'en-us'
+title = 'f3.al'
+theme = 'terminal'
+
+[params]
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "green"
+  centerTheme = true
+  readingTime = true
+  Toc = false
+  updatedDatePrefix = "Updated"
+[languages]
+  [languages.en]
+    title = "f3.al"
+    owner = "Fayçal Mitidji"
+  [languages.en.params.logo]
+    logoText = "f3.al"
+    logoHomeLink = "/"
+  [languages.en.menu]
+    [[languages.en.menu.main]]
+      identifier = "about"
+      name = "~/about"
+      url = "/about"
+    [[languages.en.menu.main]]
+      identifier = "posts"
+      name = "~/posts"
+      url = "/posts"
+    [[languages.en.menu.main]]
+      identifier = "now"
+      name = "~/now"
+      url = "/now"
