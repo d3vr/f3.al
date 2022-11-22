@@ -1,7 +1,7 @@
 ---
 title: "What I'm doing now"
 date: 2022-11-21T23:55:02+01:00
-draft: true
+draft: false
 readingTime: false
 ---
 
