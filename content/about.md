@@ -7,6 +7,8 @@ readingTime: false
 
 Oh hey there, thanks for dropping by!
 
+## About me
+
 My name is **`Fayçal Mitidji`** a.k.a `d3vr`, I am a programmer and web developer
 with 10+ years of experience and I'm currently based in Algeria.
 
@@ -27,11 +29,18 @@ You can find me on [Twitter](https://twitter.com/imd3vr) and [Github](https://gi
 
 ---
 
+## About this website
+
 **What's `f3.al` supposed to mean?**
 
 It's an abbreviation of my name: Fayçal ([/fejsal/](http://ipa-reader.xyz/?text=fejsal&voice=Nicole)).
 
 The inspiration for this came from the common practice of abbreviating long
 names in software engineering (e.g: `i18n`, `l10n` [^1]).
+
+**What do you use to build the website?**
+
+ I'm using the [Hugo](https://gohugo.io/) static site generator with the [Terminal theme](https://github.com/panr/hugo-theme-terminal), deployed on [Cloudflare Pages](https://pages.cloudflare.com/).
+
 
 [^1]: [Internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization)
