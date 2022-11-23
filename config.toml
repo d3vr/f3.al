@@ -2,31 +2,51 @@ baseURL = 'https://f3.al/'
 languageCode = 'en-us'
 title = 'f3.al'
 theme = 'terminal'
+Copyright='Crafted with code and pixels'
+enableGitInfo = true
+
+[author]
+  name = "Fayçal Mitidji"
 
 [params]
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "green"
+  subtitle = "The personal website and blog of Fayçal Mitidji, freelance programmer and web developer."
+  keywords = "programming, linux, web development, tech, scripting"
   centerTheme = true
   readingTime = true
+  oneHeadingSize = false
   Toc = false
   updatedDatePrefix = "Updated"
-[languages]
-  [languages.en]
-    title = "f3.al"
-    owner = "Fayçal Mitidji"
-  [languages.en.params.logo]
+  owner = "Fayçal Mitidji"
+  showLastUpdated = true
+  [params.logo]
     logoText = "f3.al"
     logoHomeLink = "/"
-  [languages.en.menu]
-    [[languages.en.menu.main]]
-      identifier = "about"
-      name = "~/about"
-      url = "/about"
-    [[languages.en.menu.main]]
-      identifier = "posts"
-      name = "~/posts"
-      url = "/posts"
-    [[languages.en.menu.main]]
-      identifier = "now"
-      name = "~/now"
-      url = "/now"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "~/about"
+    url = "/about"
+    weight = 2
+  [[menu.main]]
+    identifier = "projects"
+    name = "~/projects"
+    url = "/projects"
+    weight = 3
+  [[menu.main]]
+    identifier = "posts"
+    name = "~/posts"
+    url = "/posts"
+    weight = 4
+  [[menu.main]]
+    identifier = "now"
+    name = "~/now"
+    url = "/now"
+    weight = 5
+  [[menu.main]]
+    identifier = "rss"
+    name = "RSS"
+    url = "/posts/index.xml"
+    weight = 6
