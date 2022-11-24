@@ -2,6 +2,7 @@
 title: "Why I use unique email addresses and how I automate this using Mail-in-a-Box"
 slug: "create-email-addresses-using-bash"
 date: 2022-11-24
+showLastUpdated: false
 draft: false
 tags: ["bash", "email", "automation"]
 ---
