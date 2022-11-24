@@ -20,6 +20,7 @@ enableGitInfo = true
   updatedDatePrefix = "Updated"
   owner = "Fayçal Mitidji"
   showLastUpdated = true
+  readMore = "Continue reading"
   [params.logo]
     logoText = "f3.al"
     logoHomeLink = "/"
