@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://f3.al/sitemap.xml
