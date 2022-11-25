@@ -1,4 +1,4 @@
-Personal website and blog where write about and share whatever I find
+Personal website and blog where I write about and share whatever I find
 interesting in the moment (mostly technology-related).
 
 Built using the [Hugo](https://gohugo.io/) static site generator with the
