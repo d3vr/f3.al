@@ -10,6 +10,7 @@ enableGitInfo = true
 
 [params]
   # ["orange", "blue", "red", "green", "pink"]
+  repo = "d3vr/f3.al"
   themeColor = "green"
   subtitle = "The personal website and blog of Fayçal Mitidji, freelance programmer and web developer."
   keywords = "programming, linux, web development, tech, scripting"
@@ -26,6 +27,11 @@ enableGitInfo = true
     logoHomeLink = "/"
 
 [menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "/home"
+    url = "/"
+    weight = 1
   [[menu.main]]
     identifier = "about"
     name = "~/about"

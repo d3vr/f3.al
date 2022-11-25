@@ -6,6 +6,7 @@ readingTime: false
 summary: "My name is Fayçal Mitidji a.k.a d3vr, I am a freelance programmer and
 web developer with 10+ years of experience and I'm currently based in Algeria."
 keywords: ["about me", "why this website"]
+hideComments: true
 ---
 
 ## whoami
@@ -62,11 +63,36 @@ It's an abbreviation of my name: Fayçal ({{< a
 The inspiration for this came from the common practice of abbreviating long
 names in software engineering (e.g: `i18n`, `l10n` [^1]).
 
-**What do you use to build the website?**
+**How is this website built?**
 
 I'm using the {{< a "https://gohugo.io/" "Hugo" >}} static site generator with
-the {{< a "https://github.com/panr/hugo-theme-terminal" "Terminal theme" >}},
-deployed on {{< a "https://pages.cloudflare.com/" "Cloudflare Pages" >}}.
+the {{< a "https://github.com/d3vr/hugo-theme-terminal" "Terminal theme" >}}
+and {{< a "https://giscus.app/" "Giscus" >}} for comments, deployed on {{< a
+"https://pages.cloudflare.com/" "Cloudflare Pages" >}}.
+
+{{< br >}}
+
+---
+{{< br >}}
+
+## Disclaimer
+
+The information in this blog is provided “AS IS” with no warranties, and
+confers no rights.{{< br >}} This blog does not represent the thoughts,
+intentions, plans or strategies of my employer and/or collaborators. It is
+solely my opinion.
+
+Feel free to challenge me, disagree with me, or tell me I’m completely nuts in
+the comments section of each blog post, but I reserve the right to delete any
+comment for any reason whatsoever (e.g: abusive, profane, rude) – so keep it
+polite and civil, please.
+
+### Affiliate disclaimer
+
+When I link to products or services I use, those links may be affiliate links.
+If you click on any of those affiliate links and make a purchase within a
+certain time frame, I'll earn a small commission. The commission is paid by the
+retailers, at no cost to you.
 
 {{< br >}}
 

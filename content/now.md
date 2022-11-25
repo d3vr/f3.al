@@ -4,6 +4,7 @@ draft: false
 readingTime: false
 summary: "An overview of what I'm up to these days"
 keywords: ["news", "updates", "current projects"]
+hideComments: true
 ---
 
 _This is a Now [^1] page. Here you can learn about what I'm up to these days._

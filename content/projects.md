@@ -4,6 +4,7 @@ readingTime: false
 draft: false
 description: "List of projects I'm currently working on"
 keywords: ["projects", "entrepreneurship"]
+hideComments: true
 ---
 
 ### [What's On MUBI](https://whatsonmubi.com/)
