@@ -7,7 +7,7 @@ keywords: ["projects", "entrepreneurship"]
 hideComments: true
 ---
 
-### [What's On MUBI](https://whatsonmubi.com/)
+### {{< a "https://whatsonmubi.com" "What's On MUBI" >}}
 
 - **Launch**: `June, 2020`
 - **Stack**: `Python, PHP, MySQL, TailwindCSS`
