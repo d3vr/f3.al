@@ -4,6 +4,7 @@ slug: "create-email-addresses-using-bash"
 date: 2022-11-24
 showLastUpdated: false
 draft: false
+cover: "covers/create-email-addresses-using-bash.webp"
 tags: ["bash", "email", "automation"]
 ---
 
