@@ -6,6 +6,7 @@ showLastUpdated: false
 draft: false
 cover: "covers/create-email-addresses-using-bash.webp"
 tags: ["bash", "email", "automation"]
+categories: ["tutorials"]
 ---
 
 I use a self-hosted instance of {{< a "https://mailinabox.email/"
