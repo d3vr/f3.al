@@ -3,6 +3,7 @@ title: "Why I use unique email addresses and how I automate this using Mail-in-a
 slug: "create-email-addresses-using-bash"
 date: 2022-11-24
 showLastUpdated: false
+highlightCode: true
 draft: false
 cover: "covers/create-email-addresses-using-bash.webp"
 tags: ["bash", "email", "automation"]

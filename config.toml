@@ -9,6 +9,10 @@ enableGitInfo = true
   name = "Fayçal Mitidji"
   email = "hi@f3.al"
 
+[minify.tdewolff.html]
+  keepComments = true
+
+
 [params]
   # ["orange", "blue", "red", "green", "pink"]
   repo = "d3vr/f3.al"
