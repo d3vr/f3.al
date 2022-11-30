@@ -2,7 +2,9 @@
 {{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
 {{- $pages := slice -}}
 {{- if or $.IsHome $.IsSection -}}
-{{- $pages = $pctx.RegularPages -}}
+{{- $isntDefault := not (or (eq (trim $.Site.Params.contentTypeName " ") "posts") (eq (trim $.Site.Params.contentTypeName " ") "")) -}}
+{{- $contentTypeName := cond $isntDefault (string $.Site.Params.contentTypeName) "posts" -}}
+{{- $pages = (where $pctx.RegularPages "Type" $contentTypeName)  -}}
 {{- else -}}
 {{- $pages = $pctx.Pages -}}
 {{- end -}}

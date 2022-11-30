@@ -29,7 +29,7 @@ My interests include but are not limited to:
 - Music production
 - Space exploration
 
-Check out my [Now](/now) page to see what I'm up to these days.
+Check out my [Now](/now/) page to see what I'm up to these days.
 
 {{< br >}}
 
