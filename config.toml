@@ -50,7 +50,7 @@ enableGitInfo = true
   [[menu.main]]
     identifier = "posts"
     name = "~/posts"
-    url = "/posts/"
+    url = "/archive/"
     weight = 4
   [[menu.main]]
     identifier = "now"
