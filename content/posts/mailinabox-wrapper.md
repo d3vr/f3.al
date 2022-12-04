@@ -135,7 +135,7 @@ malias del my-fancy-alias@example.com     # Deletes alias
 
 You can find the (up-to date) {{< a "https://github.com/d3vr/scripts/blob/master/mailinabox-alias.sh" "finished script" >}} in my {{< a "https://github.com/d3vr/scripts" "scripts repo" >}}. Its content is reproduced here if you don't want to get it from Github:
 
-{{< code language="bash" title="Mail-in-a-Box Alias API Bash script" collapse="—" expand="+" isCollapsed="true" >}}
+{{< code language="bash" title="Mail-in-a-Box Alias API Bash script" folded="true" >}}
 #!/bin/bash
 
 # Adds/Deletes an email alias to/from a Mail-in-a-Box instance
