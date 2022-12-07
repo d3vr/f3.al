@@ -1,5 +1,5 @@
 ---
-title: "Why I use unique email addresses and how I automate this using Mail-in-a-Box"
+title: "Why I Use Unique Email Addresses and How I Automate This Using Mail-in-a-Box"
 url: "/create-email-addresses-using-bash/"
 date: 2022-11-24
 showLastUpdated: false
