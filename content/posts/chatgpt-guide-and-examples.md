@@ -1122,6 +1122,7 @@ keep in mind that ChatGPT does have some limitations:
 {{<br>}}
 
 ## Tools / Resources {#tools-resources}
+- {{<a "https://www.reddit.com/r/ChatGPT/" "/r/chatGPT">}}: ChatGPT's subreddit.
 - {{<a "https://www.learngpt.com/" "LearnGPT">}}: Lists examples of prompts and
     their output
 - {{<a "https://sharegpt.com/" "ShareGPT">}}: Browser extension to share
