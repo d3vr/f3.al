@@ -5,7 +5,7 @@ date: 2022-11-24
 showLastUpdated: false
 highlightCode: true
 draft: false
-cover: "covers/create-email-addresses-using-bash.webp"
+cover: "assets/covers/create-email-addresses-using-bash.webp"
 coverAlt: "Big warehouse with people going about their tasks"
 tags: ["bash", "email", "automation"]
 categories: ["Tutorials"]

@@ -8,7 +8,7 @@ highlightCode: true
 toc: true
 categories: ["Artificial Intelligence"]
 tags: ["nlp", "gpt", "openai"]
-cover: "covers/chatgpt-definitive-resource.webp"
+cover: "assets/covers/chatgpt-definitive-resource.webp"
 coverAlt: "Robot and human looking at each other"
 ---
 
@@ -47,7 +47,7 @@ progress in AI research is so fast, you can barely even keep up. So To
 contextualize ChatGPT and for a better idea of how we got here, here's a
 (non-exhaustive) timeline of notable events relating to language models:
 
-{{<image src="/posts/chatgpt-definitive-resource/timeline.webp" alt="Robot schematics" lazy="true">}}
+{{<image src="/assets/posts/chatgpt-definitive-resource/timeline.webp" alt="Robot schematics" lazy="true">}}
 
 #### 2017
 - **`June`** — A research team at Google {{<a
@@ -175,7 +175,7 @@ With that out of the way, let's see the examples!
 ChatGPT has shown impressive capabilities when it comes to generating code,
 explaining code, writing documentation and providing help debugging.
 
-{{<image src="/posts/chatgpt-definitive-resource/programming-and-code.webp" alt="Man typing in front of 6 computer screens" lazy="true">}}
+{{<image src="/assets/posts/chatgpt-definitive-resource/programming-and-code.webp" alt="Man typing in front of 6 computer screens" lazy="true">}}
 
 {{<br>}}
 Jump to:
@@ -476,7 +476,7 @@ descriptive error messages. Isn't that something!
 ### Writing / Marketing {#writing-marketing}
 ChatGPT is capable of producing great results when it comes to writing / text generation related tasks!
 
-{{<image src="/posts/chatgpt-definitive-resource/writing.webp" 
+{{<image src="/assets/posts/chatgpt-definitive-resource/writing.webp" 
 alt="Typewriter on a desk next to a stack of books, a plant and a coffee mug" 
 lazy="true">}}
 
@@ -721,17 +721,17 @@ signaling the city's advanced technology and progress --v 4
 And here are the stunning results (I ran it 4 times with the same prompt):
 {{<br>}}
 
-{{<image src="/posts/chatgpt-definitive-resource/utopia.webp" lazy="true">}}
-{{<image src="/posts/chatgpt-definitive-resource/utopia2.webp" lazy="true">}}
-{{<image src="/posts/chatgpt-definitive-resource/utopia3.webp" lazy="true">}}
-{{<image src="/posts/chatgpt-definitive-resource/utopia4.webp" lazy="true">}}
+{{<image src="/assets/posts/chatgpt-definitive-resource/utopia.webp" lazy="true">}}
+{{<image src="/assets/posts/chatgpt-definitive-resource/utopia2.webp" lazy="true">}}
+{{<image src="/assets/posts/chatgpt-definitive-resource/utopia3.webp" lazy="true">}}
+{{<image src="/assets/posts/chatgpt-definitive-resource/utopia4.webp" lazy="true">}}
 
 {{<br>}}
 ### Recommendations
 Wouldn't be great if you had a friend knowledgeable in many different fields
 that you could ask for recommendations on anything? Well now you do, sort of.
 
-{{<image src="/posts/chatgpt-definitive-resource/magic-library.webp" alt="A magical portal in a library corridor" lazy="true">}}
+{{<image src="/assets/posts/chatgpt-definitive-resource/magic-library.webp" alt="A magical portal in a library corridor" lazy="true">}}
 
 {{<br>}}
 Jump to:
@@ -844,7 +844,7 @@ showcase the latest advances in these fields.
 ChatGPT can also be a great tool for learning languages and enriching your
 vocabulary.
 
-{{<image src="/posts/chatgpt-definitive-resource/language.webp" alt="A robot and a woman in front of the Eiffel tower" lazy="true">}}
+{{<image src="/assets/posts/chatgpt-definitive-resource/language.webp" alt="A robot and a woman in front of the Eiffel tower" lazy="true">}}
 
 {{<br>}}
 Take a look at this example ({{<a "https://sharegpt.com/c/VXrlTau" "ShareGPT">}}):
@@ -908,7 +908,7 @@ La traduction en anglais : Why is a tire sad? Because it's deflated!
 ChatGPT is capable of so much more, and the examples shown here so far are
 just scratching the surface of what it's capable of.{{<br>}}
 
-{{<image src="/posts/chatgpt-definitive-resource/galaxy.webp" alt="A group of planets and colorful dust clouds" lazy="true">}}
+{{<image src="/assets/posts/chatgpt-definitive-resource/galaxy.webp" alt="A group of planets and colorful dust clouds" lazy="true">}}
 
 {{<br>}}
 Jump to:
@@ -1048,7 +1048,7 @@ Okay, now that you've seen plenty of examples that show the potential of
 ChatGPT, let's have a look at some tips and tricks that'll help you get the 
 output you want.
 
-{{<image src="/posts/chatgpt-definitive-resource/magic-wand.webp" alt="Magic wand with a big star at the end" lazy="true">}}
+{{<image src="/assets/posts/chatgpt-definitive-resource/magic-wand.webp" alt="Magic wand with a big star at the end" lazy="true">}}
 
 {{<br>}}
 
@@ -1138,7 +1138,7 @@ keep in mind that ChatGPT does have some limitations:
 The response from ChatGPT's release varies from complete bewilderment and
 skepticism, this is a list of coverage with varying opinions.
 
-{{<image src="/posts/chatgpt-definitive-resource/asteroid-impact.webp" 
+{{<image src="/assets/posts/chatgpt-definitive-resource/asteroid-impact.webp" 
 alt="Asteroid impact in the middle of a snowy forest" lazy="true">}}
 
 {{<br>}}
