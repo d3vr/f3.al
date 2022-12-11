@@ -1187,7 +1187,7 @@ know (either in the comments here or {{< a "https://twitter.com/imd3vr"
 In this section I'll state the changes made to
 the post and the date they were made.
 
-#### 12.11.22
+### 12.11.22
 - Initial publication
 
 {{<br>}}
