@@ -10,3 +10,9 @@ My name is **`Fayçal Mitidji`** a.k.a `d3vr`, I am a freelance programmer and w
 with 10+ years of experience and I'm currently based in Algeria.
 
 See [~/about](/about/) for more details.
+
+{{<br>}}
+Get notified when I publish new posts:
+{{<newsletter>}}
+{{<br>}}
+

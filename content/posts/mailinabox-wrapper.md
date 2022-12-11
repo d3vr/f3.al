@@ -6,6 +6,7 @@ showLastUpdated: false
 highlightCode: true
 draft: false
 cover: "covers/create-email-addresses-using-bash.webp"
+coverAlt: "Big warehouse with people going about their tasks"
 tags: ["bash", "email", "automation"]
 categories: ["Tutorials"]
 ---
@@ -48,7 +49,7 @@ Doing this through the {{< a "https://mailinabox.email/api-docs.html"
 to the `/mail/aliases/add`[^1] endpoint with `address=alias@example.com`
 and `forwards_to=address@example.com` in the body:
 
-{{< code language="bash" title="Create alias request example" collapse="—" expand="+" >}}
+{{< code language="bash" title="Create alias request example" >}}
 curl -X POST "https://box.example.com/admin/mail/aliasses/add" \
             -d "address=alias@example.com" \
             -d "forwards_to=address@example.com" \
@@ -69,14 +70,14 @@ You can generate a session API key for
 your user via the `/login`[^2] endpoint and then use the returned API key
 instead of the password in the request above:
 
-{{< code language="bash" title="Generate session API key for user" collapse="—" expand="+" >}}
+{{< code language="bash" title="Generate session API key for user" >}}
 curl -X POST "https://box.example.com/admin/login" \
             -u "user@example.com:str0ngP4ssw0rd!"
 {{< /code >}}
 
 Which returns a JSON response like this:
 
-{{< code language="json" title="Returned response" collapse="—" expand="+" >}}
+{{< code language="json" title="Returned response">}}
 {
   "api_key": "...",
   "email": "user@example.com",
@@ -88,7 +89,7 @@ Which returns a JSON response like this:
 {{< /code >}}
 
 Now we can make a request using the returned API key:
-{{< code language="bash" title="Create alias request using the API key" collapse="—" expand="+" >}}
+{{< code language="bash" title="Create alias request using the API key">}}
 curl -X POST "https://box.example.com/admin/mail/aliasses/add" \
             -d "address=alias@example.com" \
             -d "forwards_to=address@example.com" \
@@ -128,7 +129,7 @@ create an example configuration file for you in:
 script in my `~/.local/bin` folder and renamed it to `malias`.{{< br >}} It has
 two commands: `add` and `del`.
 
-{{< code language="bash" title="Script example" collapse="—" expand="+" >}}
+{{< code language="bash" title="Script example" >}}
 malias add my-fancy-alias@example.com     # Create alias
 malias del my-fancy-alias@example.com     # Deletes alias
 {{< /code >}}
@@ -297,6 +298,13 @@ The following resources were helpful in the making of this post and script:
 - {{< a "https://devhints.io/bash" "Bash Cheatsheet" >}}
 
 {{< br >}}
+
+---
+{{<br>}}
+
+Get notified when I publish new posts:
+{{<newsletter>}}
+{{<br>}}
 
 [^1]: {{< a "https://mailinabox.email/api-docs.html#operation/upsertMailAlias" "`/mail/aliases/add` endpoint reference" >}}
 [^2]: {{< a "https://mailinabox.email/api-docs.html#operation/login" "`/login` endpoint reference" >}}
