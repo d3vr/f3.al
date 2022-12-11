@@ -1025,6 +1025,10 @@ progress.
 ### Seen in the Wild {#misc-examples}
 Examples I've seen on Twitter and elsewhere:
 
+- {{<a "https://github.com/f/awesome-chatgpt-prompts" 
+    "awesome-chatgpt-prompts">}}: Github repo containing curated list of prompts
+- {{<a "https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html"
+    "Disputing A Parking Fine with ChatGPT">}}
 - {{<a "https://twitter.com/zswitten/status/1598380220943593472" 
 "Twitter Thread of known ChatGPT jailbreaks">}}: Some ways people have
 successfully bypassed ChatGPT's filters.
