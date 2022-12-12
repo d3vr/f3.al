@@ -3,7 +3,6 @@ title: "ChatGPT: The Latest and Greatest of Large Language Models from OpenAI [E
 url: "/chatgpt-definitive-resource/"
 date: 2022-12-11
 draft: false
-showLastUpdated: false
 highlightCode: true
 toc: true
 categories: ["Artificial Intelligence"]
@@ -129,9 +128,23 @@ contextualize ChatGPT and for a better idea of how we got here, here's a
 
 ### Learn More {#background-learn-more}
 #### Articles {#background-articles}
-- {{<a "https://medium.com/nlplanet/a-brief-timeline-of-nlp-from-bag-of-words-to-the-transformer-family-7caad8bbba56" "A Brief Timeline of NLP from Bag of Words to the Transformer Family">}}: A more detailed timeline of {{< abbr "NLP" "Natural Language Processing" >}} developments.
-- {{<a "https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270" "BERT Explained: State of the art language model for NLP" >}}.
-- {{<a "https://www.springboard.com/blog/data-science/machine-learning-gpt-3-open-ai/" "OpenAI GPT-3: Everything You Need to Know">}}:  This provides a good overview of how GPT-3 is different and what are some of its possible applications.
+- {{<a "https://medium.com/nlplanet/a-brief-timeline-of-nlp-from-bag-of-words-to-the-transformer-family-7caad8bbba56" 
+    "A Brief Timeline of NLP from Bag of Words to the Transformer Family">}}: A
+    more detailed timeline of {{< abbr "NLP" "Natural Language Processing" >}}
+    developments.
+- {{<a "https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270" 
+    "BERT Explained: State of the art language model for NLP" >}}.
+- {{<a "https://www.springboard.com/blog/data-science/machine-learning-gpt-3-open-ai/" 
+    "OpenAI GPT-3: Everything You Need to Know">}}:  This provides a good
+    overview of how GPT-3 is different and what are some of its possible
+    applications.
+- {{<a "https://dugas.ch/artificial_curiosity/GPT_architecture.html" 
+    "The GPT-3 Architecture, on a Napkin">}}: GPT-3 architecture explained with
+    lots of diagrams.
+#### Discussions
+- {{<a "https://news.ycombinator.com/item?id=33939805" 
+    "HackerNews: How does ChatGPT work?">}}
+
 #### Videos {#background-videos}
 - {{<a "https://www.youtube.com/watch?v=StLtMcsbQes" 
     "Large Language Models and the Future of AI">}}: Excellent talk by 
@@ -1025,8 +1038,11 @@ progress.
 ### Seen in the Wild {#misc-examples}
 Examples I've seen on Twitter and elsewhere:
 
-- {{<a "https://github.com/f/awesome-chatgpt-prompts" 
-    "awesome-chatgpt-prompts">}}: Github repo containing curated list of prompts
+- {{<a "https://medium.com/@ovd.iliescu/chatgpt-and-the-future-of-software-engineering-8dda95493db3" 
+    "ChatGPT and the future of software engineering">}}: Using ChatGPT to 
+    define a new programming language and instruct it to write programs in 
+    that language. Also shows examples of just telling ChatGPT to come up with 
+    its own language.
 - {{<a "https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html"
     "Disputing A Parking Fine with ChatGPT">}}
 - {{<a "https://twitter.com/zswitten/status/1598380220943593472" 
@@ -1039,8 +1055,13 @@ successfully bypassed ChatGPT's filters.
 - {{<a "https://www.engraved.blog/building-a-virtual-machine-inside/" 
     "Building A Virtual Machine inside ChatGPT">}}: Jonas Degrave shows how 
     ChatGPT can simulate a linux shell and even create a virtual machine!
-- {{<a "https://twitter.com/zswitten/status/1598855548581339138" "Parse search result">}}: Extract information from a search result
-- {{<a "https://codewithandrea.com/articles/dart-flutter-chatgpt/" "Dart & Flutter with ChatGPT: Is it worth it?">}}: Using ChatGPT to generate Dart & Flutter code.
+- {{<a "https://twitter.com/zswitten/status/1598855548581339138" 
+    "Parse search result">}}: Extract information from a search result
+- {{<a "https://codewithandrea.com/articles/dart-flutter-chatgpt/" 
+    "Dart & Flutter with ChatGPT: Is it worth it?">}}: Using ChatGPT to
+    generate Dart & Flutter code.
+- {{<a "https://twitter.com/hashtag/ChatGPT" "#ChatGPT Twitter hashtag">}}: You
+    can find plenty of examples on Twitter. 
 
 {{<br>}}
 {{<inline-newsletter>}}
@@ -1122,9 +1143,18 @@ keep in mind that ChatGPT does have some limitations:
 {{<br>}}
 
 ## Tools / Resources {#tools-resources}
+### Communities
 - {{<a "https://www.reddit.com/r/ChatGPT/" "/r/chatGPT">}}: ChatGPT's subreddit.
+
+### Prompts / Repositories
 - {{<a "https://www.learngpt.com/" "LearnGPT">}}: Lists examples of prompts and
     their output
+- {{<a "https://github.com/f/awesome-chatgpt-prompts" 
+    "awesome-chatgpt-prompts">}}: Github repo containing curated list of prompts
+- {{<a "https://github.com/humanloop/awesome-chatgpt" 
+    "humanloop/awesome-chatgpt">}}: Links to helpful ChatGPT resources.
+
+### Browser extensions
 - {{<a "https://sharegpt.com/" "ShareGPT">}}: Browser extension to share
     ChatGPT threads (instead of having to rely on screenshots).
     - {{<a "https://github.com/domeccleston/sharegpt" "Source code">}}
@@ -1132,21 +1162,32 @@ keep in mind that ChatGPT does have some limitations:
 - {{<a "https://github.com/wong2/chat-gpt-google-extension" 
     "Display ChatGPT results alongside Google results">}}: Browser extension to
     show ChatGPT output alongside Google search result pages.
+
+### Bots
 - {{<a "https://github.com/altryne/chatGPT-telegram-bot/" "Telegram Bot">}}
   - {{<a "https://twitter.com/altryne/status/1598822052760195072" "Announcement">}}
+- {{<a "https://github.com/transitive-bullshit/chatgpt-twitter-bot" "Twitter bot">}}
+
+### Scripts / Wrappers
 - {{<a "https://github.com/acheong08/ChatGPT" "acheong08/ChatGPT">}}: Python
     wrapper for the ChatGPT API
 
 {{<br>}}
 
 ## Impact & Reception {#impact-reception}
-The response from ChatGPT's release varies from complete bewilderment and
-skepticism, this is a list of coverage with varying opinions.
+The response from ChatGPT's release varies from complete bewilderment to
+skepticism or outright calling for OpenAI to shut down the public access [^3].
 
 {{<image src="/assets/posts/chatgpt-definitive-resource/asteroid-impact.webp" 
 alt="Asteroid impact in the middle of a snowy forest" lazy="true">}}
 
 {{<br>}}
+### Response
+- {{<a "https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned" "StackOverflow introduces a new policy banning the influx of ChatGPT-generated answers">}} because of concerns about their quality and accuracy. ({{<a "https://stackoverflow.com/help/gpt-policy" "Explanation">}})
+- {{<a "https://news.ycombinator.com/item?id=33945628" "HackerNews discussion on banning ChatGPT-generated content" >}}
+
+{{<br>}}
+
 ### Press
 - Wired: {{<a "https://www.wired.com/story/large-language-models-critique/" 
     "ChatGPT, Galactica, and the Progress Trap">}}
@@ -1192,6 +1233,11 @@ know (either in the comments here or {{< a "https://twitter.com/imd3vr"
 In this section I'll state the changes made to
 the post and the date they were made.
 
+### 12.12.22
+- Updated [Learn More](#background-learn-more), [Impact &
+    Reception](#impact-reception) and [Tools / Resources](#tools-resources)
+    sections.
+
 ### 12.11.22
 - Initial publication
 
@@ -1208,3 +1254,4 @@ Get notified when I publish new posts:
 
 [^1]: {{<a "https://twitter.com/paniterka_ch/status/1599893718214901760" "Plausible-sounding answers">}}
 [^2]: {{<a "https://twitter.com/SergeyI49013776/status/1598430479878856737" "Examples showing Where ChatGPT fails">}}
+[^3]: {{<a "https://twitter.com/pkedrosky/status/1600889992103895041" "Paul Kedrosky raises concerns about ChatGPT">}}
