@@ -127,6 +127,17 @@ contextualize ChatGPT and for a better idea of how we got here, here's a
     as a "Free Research Preview".
 
 ### Learn More {#background-learn-more}
+#### Videos {#background-videos}
+- {{<a "https://www.youtube.com/watch?v=aQguO9IeQWE" 
+    "But How Does ChatGPT Actually Work?">}}: Explainer video from Till
+    Musshoff
+
+- {{<a "https://www.youtube.com/watch?v=StLtMcsbQes" 
+    "Large Language Models and the Future of AI">}}: Excellent talk by 
+    {{<a "https://twitter.com/npcollapse" "Connor Leahy">}} from 
+    {{<a "https://www.eleuther.ai/" "EleutherAI">}}. It provides a good overview
+    of large language models and their potential.
+
 #### Articles {#background-articles}
 - {{<a "https://medium.com/nlplanet/a-brief-timeline-of-nlp-from-bag-of-words-to-the-transformer-family-7caad8bbba56" 
     "A Brief Timeline of NLP from Bag of Words to the Transformer Family">}}: A
@@ -141,16 +152,11 @@ contextualize ChatGPT and for a better idea of how we got here, here's a
 - {{<a "https://dugas.ch/artificial_curiosity/GPT_architecture.html" 
     "The GPT-3 Architecture, on a Napkin">}}: GPT-3 architecture explained with
     lots of diagrams.
+
 #### Discussions
 - {{<a "https://news.ycombinator.com/item?id=33939805" 
     "HackerNews: How does ChatGPT work?">}}
 
-#### Videos {#background-videos}
-- {{<a "https://www.youtube.com/watch?v=StLtMcsbQes" 
-    "Large Language Models and the Future of AI">}}: Excellent talk by 
-    {{<a "https://twitter.com/npcollapse" "Connor Leahy">}} from 
-    {{<a "https://www.eleuther.ai/" "EleutherAI">}}. It provides a good overview
-    of large language models and their potential.
 
 {{<br>}}
 
@@ -1038,6 +1044,11 @@ progress.
 ### Seen in the Wild {#misc-examples}
 Examples I've seen on Twitter and elsewhere:
 
+#### Videos
+- {{<a "https://www.youtube.com/watch?v=k50Y0b3g5WY" 
+    "What if OpenAI did Blender scripts?">}}: Generate Blender Python scripts.
+
+#### Articles
 - {{<a "https://medium.com/@ovd.iliescu/chatgpt-and-the-future-of-software-engineering-8dda95493db3" 
     "ChatGPT and the future of software engineering">}}: Using ChatGPT to 
     define a new programming language and instruct it to write programs in 
@@ -1045,21 +1056,23 @@ Examples I've seen on Twitter and elsewhere:
     its own language.
 - {{<a "https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html"
     "Disputing A Parking Fine with ChatGPT">}}
-- {{<a "https://twitter.com/zswitten/status/1598380220943593472" 
-"Twitter Thread of known ChatGPT jailbreaks">}}: Some ways people have
-successfully bypassed ChatGPT's filters.
 - {{<a "https://www.lesswrong.com/posts/RYcoJdvmoBbi5Nax7/jailbreaking-chatgpt-on-release-day" 
     "Jailbreaking ChatGPT on Release Day">}}
-- {{<a "https://twitter.com/SergeyI49013776/status/1598430479878856737" 
-"Examples showing Where ChatGPT fails">}}
 - {{<a "https://www.engraved.blog/building-a-virtual-machine-inside/" 
     "Building A Virtual Machine inside ChatGPT">}}: Jonas Degrave shows how 
     ChatGPT can simulate a linux shell and even create a virtual machine!
-- {{<a "https://twitter.com/zswitten/status/1598855548581339138" 
-    "Parse search result">}}: Extract information from a search result
 - {{<a "https://codewithandrea.com/articles/dart-flutter-chatgpt/" 
     "Dart & Flutter with ChatGPT: Is it worth it?">}}: Using ChatGPT to
     generate Dart & Flutter code.
+
+#### Twitter
+- {{<a "https://twitter.com/zswitten/status/1598380220943593472" 
+"Twitter Thread of known ChatGPT jailbreaks">}}: Some ways people have
+successfully bypassed ChatGPT's filters.
+- {{<a "https://twitter.com/SergeyI49013776/status/1598430479878856737" 
+"Examples showing Where ChatGPT fails">}}
+- {{<a "https://twitter.com/zswitten/status/1598855548581339138" 
+    "Parse search result">}}: Extract information from a search result
 - {{<a "https://twitter.com/hashtag/ChatGPT" "#ChatGPT Twitter hashtag">}}: You
     can find plenty of examples on Twitter. 
 
@@ -1233,12 +1246,16 @@ know (either in the comments here or {{< a "https://twitter.com/imd3vr"
 In this section I'll state the changes made to
 the post and the date they were made.
 
-### 12.12.22
+### `12/13/22`
+- Updated [Learn More](#background-learn-more) and [Seen in the Wild](#misc-examples)
+    sections.
+
+### `12/12/22`
 - Updated [Learn More](#background-learn-more), [Impact &
     Reception](#impact-reception) and [Tools / Resources](#tools-resources)
     sections.
 
-### 12.11.22
+### `12/11/22`
 - Initial publication
 
 {{<br>}}
