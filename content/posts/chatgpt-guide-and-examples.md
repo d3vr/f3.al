@@ -7,6 +7,7 @@ highlightCode: true
 toc: true
 categories: ["Artificial Intelligence"]
 tags: ["nlp", "gpt", "openai"]
+keywords: ["ChatGPT", "NLP", "Large Language Models", "AI", "Resources", "Examples"]
 cover: "assets/covers/chatgpt-definitive-resource.webp"
 coverAlt: "Robot and human looking at each other"
 ---

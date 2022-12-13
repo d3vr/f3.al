@@ -8,6 +8,7 @@ draft: false
 cover: "assets/covers/create-email-addresses-using-bash.webp"
 coverAlt: "Big warehouse with people going about their tasks"
 tags: ["bash", "email", "automation"]
+keywords: ["Bash", "Email", "Mail-in-a-Box", "Automation", "Self-Hosting"]
 categories: ["Tutorials"]
 ---
 
