@@ -14,9 +14,10 @@ categories: ["Tutorials"]
 
 I use a self-hosted instance of {{< a "https://mailinabox.email/"
 "Mail-in-a-Box" >}} for most of my email needs, and one recurrent task that I
-find myself doing manually each time is creating new aliases. {{< br >}} In
-this post I'll be going into the reasons of why I do this and how I automated
-this task using a bash script.
+find myself doing manually each time is creating new aliases.
+
+In this post I'll be going into the reasons of why I do this and how I
+automated this task using a bash script.
 
 <!--more-->
 

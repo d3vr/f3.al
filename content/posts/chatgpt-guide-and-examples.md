@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT: The Latest and Greatest of Large Language Models from OpenAI [Examples and Resources]"
+title: "ChatGPT: An Impressive Language Model! [14+ Examples]"
 url: "/chatgpt-definitive-resource/"
 date: 2022-12-11
 draft: false
@@ -17,7 +17,8 @@ you've seen talk about {{< a "https://chat.openai.com/" "ChatGPT" >}} all over
 the place. In case you haven't heard already, ChatGPT is the latest AI large
 language model from OpenAI, {{< a "https://openai.com/blog/chatgpt/" 
 "released November 30th, 2022" >}}. 
-{{< br >}} In this post I'll show you (impressive) examples of how you can use
+
+In this post I'll show you (impressive) examples of how you can use
 it and ways it can be useful for you. I'll also share some tips and tricks I've
 learned by tinkering around with it as well as a list of resources if you wish
 to learn more.
