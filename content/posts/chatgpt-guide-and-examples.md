@@ -16,7 +16,7 @@ If you've been anywhere near Twitter or tech news for the past two weeks,
 you've seen talk about {{< a "https://chat.openai.com/" "ChatGPT" >}} all over
 the place. In case you haven't heard already, ChatGPT is the latest AI large
 language model from OpenAI, {{< a "https://openai.com/blog/chatgpt/" 
-"released November 30th, 2022" >}}. 
+"released November 30th, 2022" >}}.
 
 In this post I'll show you (impressive) examples of how you can use
 it and ways it can be useful for you. I'll also share some tips and tricks I've
@@ -56,14 +56,14 @@ contextualize ChatGPT and for a better idea of how we got here, here's a
     "https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html"
     "introducing Transformer" >}}, a novel neural network architecture.
 #### 2018
-- **`November`** — Google {{< a
-    "https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html"
-    "open-sources BERT" >}} ({{< a "https://arxiv.org/abs/1810.04805"
-    "paper">}}), a pre-trained Natural Language Processing model.
 - **`June`** — OpenAI {{< a
     "https://openai.com/blog/language-unsupervised/" "introduces GPT" >}} ({{<a
     "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf"
     "paper">}}).
+- **`November`** — Google {{< a
+    "https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html"
+    "open-sources BERT" >}} ({{< a "https://arxiv.org/abs/1810.04805"
+    "paper">}}), a pre-trained Natural Language Processing model.
 #### 2019
 - **`February`** — OpenAI {{<a
     "https://openai.com/blog/better-language-models/" "publishes GPT-2">}}
@@ -114,13 +114,13 @@ contextualize ChatGPT and for a better idea of how we got here, here's a
     web browser while mimicing how a human researches questions online. It also
     cites the sources for the answers it makes.
 #### 2022
-- **`March`** — OpenAI {{<a "https://openai.com/blog/gpt-3-edit-insert/"
-    "adds Editing & Insertion capabilities to GPT-3" >}}. 
-- **`Jane`** — OpenAI {{<a "https://openai.com/blog/instruction-following/"
+- **`January`** — OpenAI {{<a "https://openai.com/blog/instruction-following/"
     "introduces InstructGPT" >}} ({{<a "https://arxiv.org/abs/2203.02155"
     "paper">}}), a fine-tuned GPT-3 model (using {{<abbr "RLHF" "Reinforcement Learning from Human Feedback" >}})
     to better follow instructions and achieve better alignment with users' intents.
-- **`December`** — OpenAI {{<a "https://openai.com/blog/chatgpt/" "introduces ChatGPT" >}},
+- **`March`** — OpenAI {{<a "https://openai.com/blog/gpt-3-edit-insert/"
+    "adds Editing & Insertion capabilities to GPT-3" >}}. 
+- **`November`** — OpenAI {{<a "https://openai.com/blog/chatgpt/" "introduces ChatGPT" >}},
     a model trained to interact in a conversational way which works great as a
     chatbot. It has the capability to answer questions (and followup questions)
     while taking the context into consideration, it also admits its mistakes,
@@ -1274,3 +1274,4 @@ Get notified when I publish new posts:
 [^1]: {{<a "https://twitter.com/paniterka_ch/status/1599893718214901760" "Plausible-sounding answers">}}
 [^2]: {{<a "https://twitter.com/SergeyI49013776/status/1598430479878856737" "Examples showing Where ChatGPT fails">}}
 [^3]: {{<a "https://twitter.com/pkedrosky/status/1600889992103895041" "Paul Kedrosky raises concerns about ChatGPT">}}
+
