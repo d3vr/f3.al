@@ -1046,6 +1046,11 @@ progress.
 ### Seen in the Wild {#misc-examples}
 Examples I've seen on Twitter and elsewhere:
 
+#### Slides
+- {{<a "https://lifearchitect.ai/chatgpt-prompt-book/" 
+    "The ChatGPT Prompt Book" >}}: A set of interesting prompt examples from Dr
+    Alan D. Thompson.
+
 #### Videos
 - {{<a "https://www.youtube.com/watch?v=k50Y0b3g5WY" 
     "What if OpenAI did Blender scripts?">}}: Generate Blender Python scripts.
@@ -1215,6 +1220,11 @@ alt="Asteroid impact in the middle of a snowy forest" lazy="true">}}
 
 {{<br>}}
 ### Videos
+- Two Minute Papers: {{<a  "https://www.youtube.com/watch?v=V2RoqUr0qDU" "OpenAI ChatGPT: The Future Is Here!" >}}
+- ColdFusion: {{<a "https://www.youtube.com/watch?v=0uQqMxXoNVs" 
+    "It’s Time to Pay Attention to A.I. (ChatGPT and Beyond)">}}: Excellent
+    video covering the impact ChatGPT has had in the last few weeks and what
+    can we expect in the future.
 - Yannic Kilcher: {{<a "https://www.youtube.com/watch?v=0A8ljAkdFtg" 
     "ChatGPT: This AI has a JAILBREAK?! (Unbelievable AI Progress)">}}
 - MKBHD: {{<a "https://www.youtube.com/watch?v=0gNauGdOkro" 
@@ -1247,6 +1257,10 @@ know (either in the comments here or {{< a "https://twitter.com/imd3vr"
 
 In this section I'll state the changes made to
 the post and the date they were made.
+
+### `12/22/22`
+- Updated [Seen in the Wild](#misc-examples) and [Impact &
+    Reception](#impact-reception) sections.
 
 ### `12/13/22`
 - Updated [Learn More](#background-learn-more) and [Seen in the Wild](#misc-examples)
