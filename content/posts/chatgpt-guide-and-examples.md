@@ -1,5 +1,7 @@
 ---
 title: "ChatGPT: An Impressive Language Model! [14+ Examples]"
+description: "Impressive examples of what ChatGPT can do, some tips and tricks I've
+learned by tinkering around with it and a list of useful resources."
 url: "/chatgpt-definitive-resource/"
 date: 2022-12-11
 draft: false

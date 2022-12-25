@@ -1,5 +1,7 @@
 ---
-title: "Why I Use Unique Email Addresses and How I Automate This Using Mail-in-a-Box"
+title: "Unique Email Addresses with Bash and the Mail-in-a-Box API"
+description: "Why I use unique email addresses for each account and how I quickly create them using the
+Mail-in-a-Box API and a bash script."
 url: "/create-email-addresses-using-bash/"
 date: 2022-11-24
 showLastUpdated: false
